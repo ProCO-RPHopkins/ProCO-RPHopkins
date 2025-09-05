@@ -7,7 +7,7 @@
 
 ### 🚀 About Me  
 
-From what I know about myself, I am a **builder, researcher, and innovator** who operates at the intersection of **justice-tech, customer success, and AI**. I’ve created and continue to refine **Achieve Reentry / Achieve DXP**, a secure digital ecosystem designed to support incarcerated learners and returning citizens with education, workforce development, and tools like job-matching, resume builders, and onboarding flows.  
+I am a **builder, researcher, and innovator** who operates at the intersection of **justice-tech, customer success, and AI**. I’ve created and continue to refine **Achieve Reentry / Achieve DXP**, a secure digital ecosystem designed to support incarcerated learners and returning citizens with education, workforce development, and tools like job-matching, resume builders, and onboarding flows.  
 
 Alongside this, I’m deeply invested in **AI-driven context engineering and prompt engineering**, designing custom GPTs to support customer success workflows, ticket triage, analytics, and even RPG-style learning experiences. My work reflects a strong balance of technical detail, **data analytics**, user-centric design, and a commitment to equitable reentry opportunities.  
 
