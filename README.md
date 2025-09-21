@@ -18,7 +18,7 @@ Professionally, I juggle multiple roles: **Customer Success at Nucleos**, a part
 ### 🛠️ Tech & Tools  
 
 - **Languages & Frameworks:** Python, Node.js, JavaScript, EJS, HTML/CSS  
-- **Databases:** MongoDB  
+- **Databases:** MongoDB, SQLite  
 - **Data & Analytics:** pandas, scikit-learn, simple-statistics, ApexCharts  
 - **AI & ML:** Prompt Engineering, Custom GPTs, ML model pipelines  
 - **Dev Tools:** Git/GitHub, VS Code, Google Cloud, Docker, Yarn/npm/pnpm  
