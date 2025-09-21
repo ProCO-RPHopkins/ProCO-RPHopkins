@@ -31,7 +31,7 @@ Professionally, I juggle multiple roles: **Customer Success at Nucleos**, a part
 - 📧 **Email:** [ryan.hopkins2@snhu.edu](mailto:ryan.hopkins2@snhu.edu)  
 - 🤝 **Handshake:** [AI-Tech Enthusiast Profile](https://app.joinhandshake.com/profiles/ai-tech-enthusiast)
 - 💼 Portfolio: [Visit my Portfolio](https://proco-rphopkins.github.io/Portfolio/)
-- 🐙 GitHub: github.com/proco-rphopkins
+- 🐙 GitHub: [github.com/proco-rphopkins](github.com/proco-rphopkins)
 
 ---
 
