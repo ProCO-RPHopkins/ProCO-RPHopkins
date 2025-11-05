@@ -6,9 +6,9 @@
 ---
 
 ### 🚀 About Me
-I’m an AI-first builder who turns messy, real-world workflows into structured, automatable systems. Most of my work sits at the intersection of AI, secure/limited environments, and education/justice-tech — places where you can’t just “use the cloud,” so you have to design for context, constraints, and people.
+I’m an AI-first builder who turns messy, real-world workflows into structured, automatable systems. I build AI-centered workflows that are portable across environments — cloud, local/WSL, offline images, and tool-backed APIs — so teams can actually adopt them.
 
-I work backwards from the process: capture context → package it for an LLM → capture context → package it for an LLM → return repeatable systems (workflows, docs, service stubs, and deployment-ready images). I’m actively targeting roles like **AI Solutions Architect** and **Forward-Deployed AI Engineer** where this kind of applied, multi-tool AI work is the job.
+I work backwards from the process: capture context → package it for an LLM → return repeatable systems (workflows, docs, service stubs, and deployment-ready images). I’m actively targeting roles like **AI Solutions Architect** and **Forward-Deployed AI Engineer** where this kind of applied, multi-tool AI work is the job.
 
 ### 🧠 How I Work – Process over Projects
 - **Context engineering:** build prompts/system cards so AI can operate on support, admin, and dev tasks without re-explaining everything.
