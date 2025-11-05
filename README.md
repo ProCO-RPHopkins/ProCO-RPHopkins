@@ -1,30 +1,31 @@
-<h1 align="center">👋 Hey there, I’m Ryan Hopkins</h1>
+<h1 align="center">I’m Ryan Hopkins</h1>
 <p align="center">
-  Builder • Researcher • Innovator • Designer • AI & Data Enthusiast
+  Applied AI Solutions • Documented Workflow Systems • Context Engineer
 </p>
 
 ---
 
 ### 🚀 About Me  
 
-I am a **builder, researcher, and innovator** who operates at the intersection of **justice-tech, customer success, and AI**. I’ve created and continue to refine **Achieve Reentry**, an ecosystem designed to support returning citizens with tools like job-matching, resume builders, and onboarding flows.  
+I’m an AI-first builder who turns messy, real-world workflows into structured, automatable systems. Most of my work sits at the intersection of AI, secure/limited environments, and education/justice-tech — where you can’t just “use the cloud,” so you have to design for context, constraints, and people.
 
-Alongside this, I’m deeply invested in **AI-driven context engineering and prompt engineering**, designing custom GPTs to support customer success workflows, ticket triage, analytics, and even RPG-style learning experiences. My work reflects a strong balance of technical detail, **data analytics**, user-centric design, and a commitment to equitable reentry opportunities.  
+I work backwards from the process: capture context → package it for an LLM → return repeatable artifacts (docs, emails, tickets, admin steps). I’m actively targeting roles like AI Solutions Architect and Forward-Deployed AI Engineer where this kind of applied, multi-tool AI work is the job.
 
-Professionally, I juggle multiple roles: **Customer Success at Nucleos**, a part-time roles as a **Generative AI Specialist at Innodata**, and a wide range of personal and academic pursuits in AI, machine learning, and data analytics. I’m detail-oriented, especially with coding (**Python, Node.js, MongoDB, Git/GitHub**), infrastructure (**VS Code, Google Cloud, Docker**), and data visualization (**ApexCharts, pandas, scikit-learn**). I also draw from my background in **Industrial-Organizational Psychology**, applying data-driven methods to people analytics and leadership research. Career-wise, I’m building toward roles in **AI/ML, people analytics, and advanced product development**—leveraging my experience, technical learning, and passion for building tools that make complex systems accessible and impactful.  
+**What I actually do (process over projects)**
 
----
+### 🧠 How I Work
+- **Context engineering:** build prompts/system cards so AI can operate on support, admin, and dev tasks without re-explaining everything.
+- **Multi-environment delivery:** WSL/Ubuntu, GitHub Actions, Packer, offline/Kolibri, and MCP/HTTP-style tool calling.
+- **AI for dev, not just users:** use LLMs to generate docs, triage issues, and scaffold integrations (PostHog MCP, admin platforms, LMS flows).
+- **Documentation as a feature:** every flow gets turned into something a future teammate (or AI agent) can run.
 
-### 🛠️ Tech & Tools  
-
-- **Languages & Frameworks:** Python, Node.js, JavaScript, EJS, HTML/CSS  
-- **Databases:** MongoDB, SQLite  
-- **Data & Analytics:** pandas, scikit-learn, simple-statistics, ApexCharts  
-- **AI & ML:** Prompt Engineering, Custom GPTs, ML model pipelines  
-- **Dev Tools:** Git/GitHub, VS Code, Google Cloud, Docker, Yarn/npm/pnpm  
-- **Other Expertise:** Industrial-Organizational Psychology, People Analytics  
-
----
+### 🛠️ Skills & Stack
+- **AI & Automation:** Custom GPTs, prompt/system design, LLM-assisted debugging, workflow generators
+- **Backend / Scripting:** Python, Node.js/JavaScript
+- **Web / Templating:** HTML/CSS, EJS
+- **Data / Storage:** MongoDB, SQLite, pandas
+- **Dev environment:** Git/GitHub, VS Code on WSL/Ubuntu, Docker, Google Cloud, Raspberry Pi image builds (Packer/GitHub Actions)
+- **Domains:** justice-tech, education platforms, secure/offline delivery
 
 ### 🌐 Connect with Me  
 
