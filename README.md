@@ -11,9 +11,7 @@ I’m an AI-first builder who turns messy, real-world workflows into structured,
 
 I work backwards from the process: capture context → package it for an LLM → return repeatable artifacts (docs, emails, tickets, admin steps). I’m actively targeting roles like AI Solutions Architect and Forward-Deployed AI Engineer where this kind of applied, multi-tool AI work is the job.
 
-**What I actually do (process over projects)**
-
-### 🧠 How I Work
+### 🧠 How I Work - Process over Projects
 - **Context engineering:** build prompts/system cards so AI can operate on support, admin, and dev tasks without re-explaining everything.
 - **Multi-environment delivery:** WSL/Ubuntu, GitHub Actions, Packer, offline/Kolibri, and MCP/HTTP-style tool calling.
 - **AI for dev, not just users:** use LLMs to generate docs, triage issues, and scaffold integrations (PostHog MCP, admin platforms, LMS flows).
