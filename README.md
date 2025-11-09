@@ -20,7 +20,7 @@ I work backwards from the process: capture context → package it for an LLM →
 - **AI & Automation:** Custom GPTs, prompt/system design, LLM-assisted debugging, workflow generators
 - **Backend / Scripting:** Python, Node.js/JavaScript
 - **Web / Templating:** HTML/CSS, EJS
-- **Data / Storage:** MongoDB, SQLite, pandas
+- **Data / Storage:** MongoDB, SQLite, pandas, Julia
 - **Dev Environment / Infra:** Git/GitHub, VS Code on WSL/Ubuntu, Docker, Google Cloud, Raspberry Pi image builds (Packer/GitHub Actions)
 - **Domains:** justice-tech, education platforms, secure/offline delivery
 
