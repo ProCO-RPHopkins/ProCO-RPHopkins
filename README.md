@@ -124,7 +124,7 @@ The domain follows from the same place. Most of my work ships into correctional 
 
 - Filling organizational gaps with new **Relay** features and improvements at [Nucleos](https://www.nucleos.com/)
 - Open to **AI Solutions Architect** and **Forward-Deployed Engineer** roles
-- Off the clock: reading into computational neuroscience and brain-computer interfaces, which I suspect is where this all goes next
+- Off the clock: reading into computational neuroscience and bi-directional brain-computer interfaces
 
 ---
 
