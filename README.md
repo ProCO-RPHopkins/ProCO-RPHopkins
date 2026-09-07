@@ -131,7 +131,7 @@ The domain follows from the same place. Most of my work ships into correctional 
 ## Connect
 
 - **LinkedIn** — [linkedin.com/in/ryan-hopkins-253344277](https://linkedin.com/in/ryan-hopkins-253344277)
-- **Portfolio** — [proco-rphopkins.github.io/Portfolio](https://proco-rphopkins.github.io/Portfolio/)
+- **Portfolio** — [https://ryan-hopkins-systems-portfolio.ryan-hopkins.chatgpt.site/](https://ryan-hopkins-systems-portfolio.ryan-hopkins.chatgpt.site/)
 - **Email** — [ryan.hopkins2@snhu.edu](mailto:ryan.hopkins2@snhu.edu)
 
 <sub>If you're building tools that sit between AI and the people who have to use them every day, I'd like to hear about it.</sub>
