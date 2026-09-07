@@ -34,7 +34,36 @@ Project stories, interfaces, and development status → **[Explore the work](htt
 
 ### Tools I build with
 
-`Python` `TypeScript` `LangGraph` `FastAPI` `React / Next.js` `PostgreSQL` `Docker` `Playwright`
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tool-icons/python-dark.svg">
+    <img src="assets/tool-icons/python-light.svg" width="88" height="76" alt="Python">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tool-icons/typescript-dark.svg">
+    <img src="assets/tool-icons/typescript-light.svg" width="88" height="76" alt="TypeScript">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tool-icons/langgraph-dark.svg">
+    <img src="assets/tool-icons/langgraph-light.svg" width="88" height="76" alt="LangGraph">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tool-icons/fastapi-dark.svg">
+    <img src="assets/tool-icons/fastapi-light.svg" width="88" height="76" alt="FastAPI">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tool-icons/nextdotjs-dark.svg">
+    <img src="assets/tool-icons/nextdotjs-light.svg" width="88" height="76" alt="Next.js">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tool-icons/postgresql-dark.svg">
+    <img src="assets/tool-icons/postgresql-light.svg" width="88" height="76" alt="PostgreSQL">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tool-icons/docker-dark.svg">
+    <img src="assets/tool-icons/docker-light.svg" width="88" height="76" alt="Docker">
+  </picture>
+</p>
 
 ---
 
