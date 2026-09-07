@@ -67,5 +67,5 @@ Project stories, interfaces, and development status → **[Explore the work](htt
 
 ---
 
-**Exploring:** AI research methodology · computational neuroscience · brain–computer interfaces  
+**Exploring:** [AI research methodology · computational neuroscience · brain–computer interfaces](https://github.com/ProCO-RPHopkins/BBCI-Adaptive-Dynamics-Lab)  
 **Open to:** AI Solutions Architect & Forward-Deployed Engineer roles · remote
