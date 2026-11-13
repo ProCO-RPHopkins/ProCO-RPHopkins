@@ -4,7 +4,7 @@
     <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/profile-dark-mobile.svg">
     <source media="(max-width: 600px)" srcset="assets/profile-light-mobile.svg">
     <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark.svg">
-    <img src="assets/profile-light.svg" width="100%" alt="Ryan Hopkins — Context first. People always. AI systems architect / Context engineer. Explore my portfolio.">
+    <img src="assets/profile-light.svg" width="100%" alt="Ryan Hopkins — Context first. People always. AI Systems Architect / Agentic Engineer. Explore my portfolio.">
   </picture>
 </a>
 </p>
@@ -14,23 +14,25 @@
   &nbsp;&nbsp; <a href="https://linkedin.com/in/ryan-hopkins-253344277">LinkedIn</a> &nbsp; / &nbsp; <a href="mailto:ryan.hopkins2@snhu.edu">Email</a>
 </p>
 
-### Good systems start with understanding people.
+### AI Systems Architect · Agentic Engineer
 
-I design and build AI products for the work between the work: the support request, the missing documentation, the broken handoff. My M.S. in **Industrial-Organizational Psychology** shapes how I approach engineering—understand the behavior, then design the system.
+**Good systems start with understanding people.**
 
-Working in **Customer Success at iT1 Nucleos** keeps me close to the people using what I build, especially in correctional education and reentry.
+I architect, build, and operate AI systems end to end—from understanding the workflow and designing the architecture to agent orchestration, CLI and web experiences, integrations, QA, and production operations. My M.S. in **Industrial-Organizational Psychology** informs how I approach adoption: different people need different ways to understand, trust, and use technology at work.
 
-### On my workbench
+At **iT1 Nucleos**, I work across Customer Success, integrations, and technical operations. I design for both the engineers who prefer a terminal and the colleagues who need a clear, approachable interface.
+
+### Selected systems
 
 | System | Focus |
 | :-- | :-- |
-| **Relay** | Coordinated AI workflows, with human review. |
-| **Helix** | Documentation built from real application workflows. |
-| **Sentinel** | Detecting broken onboarding and preparing reviewed fixes. |
+| **Relay** | Internal AI operations platform evolving into a shared engineering harness. CLI and UI workflows, ClickUp investigations, browser-driven issue reproduction, and evidence-backed findings; automated fixes and broader QA are next steps. |
+| **Seylumi** | Human-centered facility communication across web and Android, with real-world adoption and safeguards guiding the design. |
+| **Sentinel** | A test-environment recovery pipeline for detecting changed onboarding flows and preparing reviewed repairs. |
 
 Project stories, interfaces, and development status → **[Explore the work](https://ryan-hopkins-systems-portfolio.ryan-hopkins.chatgpt.site/#work)**
 
-**A thread through all three:** [System Immune Memory](https://ryan-hopkins-systems-portfolio.ryan-hopkins.chatgpt.site/#sim)—my evolving framework for preserving what broke, what fixed it, and what the next person or agent needs to know.
+**The connective principle:** [System Immune Memory](https://ryan-hopkins-systems-portfolio.ryan-hopkins.chatgpt.site/#sim)—keep evidence, decisions, and verified lessons accessible to the next person or agent.
 
 ### Tools I build with
 
@@ -68,4 +70,4 @@ Project stories, interfaces, and development status → **[Explore the work](htt
 ---
 
 **Exploring:** [AI research methodology · computational neuroscience · brain–computer interfaces](https://github.com/ProCO-RPHopkins/BBCI-Adaptive-Dynamics-Lab)  
-**Open to:** AI Solutions Architect & Forward-Deployed Engineer roles · remote
+**Open to:** AI Systems Architect · Agentic Engineer · Forward-Deployed Engineer roles · remote
